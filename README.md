@@ -33,7 +33,7 @@ I enjoy working across the stack — from designing responsive interfaces to bui
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square\&logo=redux\&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square\&logo=reactquery\&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square)
+
 
 ### Cloud & DevOps
 
@@ -61,21 +61,20 @@ A full-stack platform for managing legal cases, documents, users, and workflows.
 
 **B-BBEE Compliance Platform**
 
-A business compliance platform featuring B-BBEE scoring, reporting, dashboards, and Power BI integration.
-
+A business compliance platform featuring B-BBEE scoring, reporting, dashboards.
 **Stack:**
-`Next.js` `React` `TypeScript` `Node.js` `PostgreSQL` `Power BI` `AWS`
+`Next.js` `React` `TypeScript`
 
 ---
 
-### 🔧 OneRepair
+### 🔧 Installdirect
 
-**Automotive Service Platform**
+**Consturction Company CRM**
 
-A platform connecting customers with mechanics and automotive service providers.
+A CRM for a construction company in the UK
 
 **Stack:**
-`React` `Next.js` `Node.js` `MongoDB` `Express`
+`React` `Next.js` `Tailwind`
 
 ---
 
@@ -86,7 +85,7 @@ A platform connecting customers with mechanics and automotive service providers.
 A web application focused on structural analysis and engineering calculations.
 
 **Stack:**
-`React` `TypeScript` `Next.js` `Node.js`
+`React` `TypeScript` `Next.js` `Node.js` `Express`
 
 ---
 
@@ -125,19 +124,14 @@ I'm particularly interested in building systems that are **maintainable, scalabl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mostaehab&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostaehab&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mostaehab/))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mostaehab)
 
----
-
-<p align="center">
-  <i>Build. Learn. Ship. Repeat.</i>
-</p>
